@@ -1,0 +1,28 @@
+{
+  "name": "Drop The Key v2",
+  "vendorProductId": 4276969584,
+  "macros": [
+    "{KC_LGUI,KC_C}",
+    "{KC_LGUI,KC_V}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    ["MO(1)", "MO(2)", "MO(3)"],
+    ["KC_TRNS", "RGB_MOD", "RGB_HUI"],
+    ["RGB_TOG", "KC_TRNS", "RGB_HUD"],
+    ["MACRO00", "MACRO01", "C(undefined)"]
+  ]
+}
